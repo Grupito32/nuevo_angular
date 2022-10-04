@@ -1,0 +1,10 @@
+{
+    "_id": {
+      "$oid": "633af40930a2eba94ba8880f"
+    },
+    "nombre": "Jose",
+    "apellido": "Rojas",
+    "edad": 21.4,
+    "telefono": "3124567356"
+      
+  }
